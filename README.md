@@ -9,5 +9,6 @@
 - Event Sourcing Example: [Event Sourcing with Kafka and ksqlDB](https://evgeniy-khyst.com/ksqldb-event-souring/)
 - Huge Volumes: [Infinite Storage in Confluent Platform](https://www.confluent.io/blog/infinite-kafka-storage-in-confluent-platform/)
 - Kafka Persistence: [It’s Okay To Store Data In Apache Kafka](https://www.confluent.io/blog/okay-store-data-apache-kafka/)
+- Confluent: [How to filter a stream of events](https://developer.confluent.io/tutorials/filter-a-stream-of-events/ksql.html)
 
 Note: Use `primary-ksqldb-server` instead of ksqldb-server.
